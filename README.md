@@ -6,7 +6,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Libraries Used](#technologies-used)
-* [Melanoma Detection Final Model analysis](#inferences)
+* [Some inferences from the Melanoma Detection Final Model analysis](#inferences)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information

@@ -6,7 +6,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Libraries Used](#technologies-used)
-* [Some inferences from the BoomBike data analysis](#inferences)
+* [Melanoma Detection Final Model analysis](#inferences)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
